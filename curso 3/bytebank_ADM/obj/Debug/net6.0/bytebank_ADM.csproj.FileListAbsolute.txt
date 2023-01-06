@@ -1,0 +1,15 @@
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.exe
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.deps.json
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.runtimeconfig.json
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.dll
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.pdb
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.csproj.AssemblyReference.cache
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.AssemblyInfoInputs.cache
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.AssemblyInfo.cs
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.csproj.CoreCompileInputs.cache
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.dll
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\obj\Debug\net6.0\refint\bytebank_ADM.dll
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.pdb
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.genruntimeconfig.cache
+D:\Downloads\curso_OrientacaoObjetosC02R-aula02\bytebank_ADM\obj\Debug\net6.0\ref\bytebank_ADM.dll
